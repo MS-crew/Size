@@ -6,7 +6,7 @@
 <a href="https://github.com/ExMod-Team/EXILED"><img src="https://img.shields.io/badge/Exiled-8.11.0-red?style=for-the-badge&logo=gitbook" href="https://github.com/ExMod-Team/EXILED" alt="GitHub Exiled"></a>
 
 
-This plugin basically offers the Size command in AdminTolls[here](https://github.com/Exiled-Team/AdminTools)., but as a plain and simple plugin with a few improvements.
+This plugin basically offers the Size command in AdminTolls [here](https://github.com/Exiled-Team/AdminTools)., but as a plain and simple plugin with a few improvements.
 </div>
 
 ## Additional Features
