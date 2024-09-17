@@ -12,10 +12,10 @@ This plugin basically offers the Size command in AdminTolls[here](https://github
 ## Additional Features
 
 - **Size all:** Allows to manage multiple size of all players.
-- **PLayer reset:** Returns the player's size to default.
+- **Player reset:** Returns the player's size to default.
 - **All reset:** Returns the all player's size to default.
-- **Size Teamname:** Change the size of all players in the selected group(example size ClassD or size SCPs or size FoundationForces).
-- **Teamname reset:** Reset the size of all players in the selected group(example size ClassD or size SCPs or size FoundationForces).
+- **Size Team:** Change the size of all players in the selected group(example size ClassD or size SCPs or size FoundationForces).
+- **Team reset:** Reset the size of all players in the selected group(example size ClassD or size SCPs or size FoundationForces).
 - **Console control:** Ability to use the size command as .size from the console.
 
 ## Installation
